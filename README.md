@@ -1,4 +1,7 @@
-## Hi there 👋
+## hello
+this is mostly a personal acc for personal projects. some projects may be used for professional work in the later future.
+
+if you love robots and know how to read japanese, please support [rei adachi](https://mechanicalgirl.jp/adachi-rei/)!
 
 <!--
 **reiteto/reiteto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
